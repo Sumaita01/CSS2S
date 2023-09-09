@@ -1,0 +1,85 @@
+. *{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.card {
+    background-size: cover;
+    background-position:center ;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    padding:20px;
+    background-color:aliceblue;
+
+    
+    margin: 60px auto;
+    box-sizing: border-box;
+    display: inline-block;
+    border-radius: 35px;
+
+    
+}
+.card img{
+    border-radius: 30px;
+    display: inline-block;
+    padding: 15px 10px;
+
+
+}
+.card p{
+    color: rgb(176, 68, 68);}
+
+.card p span{
+    color:rgb(102, 118, 132);
+}
+.card a{
+    font-size:25px;
+    text-decoration: none;
+    background-color: rgb(172, 185, 198);
+    color: brown;
+    width: 200px;
+    height: 50px;
+    display: block;
+    text-align: center;
+    line-height:50px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px;
+
+
+
+}
+ .Tap img {
+    width:620px;
+    display: inline-block;
+    padding: 15px 10px ;
+}
+.Tap{
+    background-size: cover;
+    background-position:center ;
+    padding:10px;
+    background-color:aliceblue;
+
+    
+    margin: 40px auto;
+    box-sizing: border-box;
+    display: inline-block;
+    border-radius: 30px;
+
+}
+.Tap p span{
+    color: brown;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
